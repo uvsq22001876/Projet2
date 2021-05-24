@@ -4,7 +4,7 @@
 # Dylan THUILLIER
 # Ahmadou bamba SOUM
 # Olivier GABRIEL
-# https://github.com/uvsq22005256/projet_incendie
+# https://github.com/uvsq22001876/Projet2
 # https://discord.gg/fNQpuPM3yQ
 
 #########################################
